@@ -1,0 +1,5 @@
+.direnv
+node_modules
+docs
+CODE_OF_CONDUCT.md
+LICENSE.txt
