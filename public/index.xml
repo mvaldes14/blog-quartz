@@ -6,11 +6,17 @@
       <description>Last 10 notes on mvaldes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>This is a test</title>
+    <link>https://mvaldes.dev/test</link>
+    <guid>https://mvaldes.dev/test</guid>
+    <description></description>
+    <pubDate>Tue, 17 Dec 2024 05:49:35 GMT</pubDate>
+  </item><item>
     <title>Welcome to my blog</title>
     <link>https://mvaldes.dev/</link>
     <guid>https://mvaldes.dev/</guid>
     <description>Who am I? Site Reliability Engineer, Gamer &amp; Neovim Fanboy. Welcome to my Personal Site. In here I will attempt to write about things I’m either working on or things I’m trying to learn to improve my skills, most of the times it’s just me trying out things that I find interesting or cool to demo.</description>
-    <pubDate>Mon, 16 Dec 2024 20:28:43 GMT</pubDate>
+    <pubDate>Tue, 17 Dec 2024 05:37:34 GMT</pubDate>
   </item><item>
     <title>Why Self-Hosting made me a better engineer</title>
     <link>https://mvaldes.dev/posts/self-hosting-engineer</link>
@@ -59,12 +65,6 @@
     <guid>https://mvaldes.dev/posts/streaming</guid>
     <description>Look Ma' I'm a streamer now.</description>
     <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>The Steam Deck is awesome</title>
-    <link>https://mvaldes.dev/posts/steam-deck-awesome</link>
-    <guid>https://mvaldes.dev/posts/steam-deck-awesome</guid>
-    <description>I'm addicted to metroidvania games and my life is hell.</description>
-    <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

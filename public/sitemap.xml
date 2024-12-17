@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://mvaldes.dev/</loc>
-    <lastmod>2024-12-16T20:28:43.923Z</lastmod>
+    <lastmod>2024-12-17T05:37:34.700Z</lastmod>
   </url><url>
     <loc>https://mvaldes.dev/posts/ansible-101</loc>
     <lastmod>2019-01-18T00:00:00.000Z</lastmod>
@@ -103,4 +103,7 @@
   </url><url>
     <loc>https://mvaldes.dev/projects/vue-composer</loc>
     <lastmod>2020-06-02T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://mvaldes.dev/test</loc>
+    <lastmod>2024-12-17T05:49:35.056Z</lastmod>
   </url></urlset>
