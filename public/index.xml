@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>mvaldes</title>
+      <link>https://mvaldes.dev</link>
+      <description>Last 10 notes on mvaldes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to my blog!</title>
+    <link>https://mvaldes.dev/</link>
+    <guid>https://mvaldes.dev/</guid>
+    <description>Welcome to my Personal Site! Here, I will share my experiences as I work on various projects or learn new skills, often inspired by what catches my interest ...</description>
+    <pubDate>Wed, 18 Dec 2024 00:38:05 GMT</pubDate>
+  </item><item>
+    <title>Why Self-Hosting made me a better engineer</title>
+    <link>https://mvaldes.dev/life/self-hosting-engineer</link>
+    <guid>https://mvaldes.dev/life/self-hosting-engineer</guid>
+    <description>Why I'm potentially better than you homie.</description>
+    <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Ollama in WSL + NixOS</title>
+    <link>https://mvaldes.dev/homelab/ollama-wsl-nixos</link>
+    <guid>https://mvaldes.dev/homelab/ollama-wsl-nixos</guid>
+    <description>Quick way to get your own LLM locally.</description>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Split Keyboards are fun</title>
+    <link>https://mvaldes.dev/life/split-keyboards</link>
+    <guid>https://mvaldes.dev/life/split-keyboards</guid>
+    <description>Stay awhile and listen kid.</description>
+    <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Tailscale is pretty cool</title>
+    <link>https://mvaldes.dev/homelab/tailscale-is-cool</link>
+    <guid>https://mvaldes.dev/homelab/tailscale-is-cool</guid>
+    <description>I can access my homelab anywhere, hbu?.</description>
+    <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>I Love/Hate Nix</title>
+    <link>https://mvaldes.dev/automation/nix-journey</link>
+    <guid>https://mvaldes.dev/automation/nix-journey</guid>
+    <description>I use nix (btw).</description>
+    <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Meal Notifier with Go</title>
+    <link>https://mvaldes.dev/projects/meal-notifier</link>
+    <guid>https://mvaldes.dev/projects/meal-notifier</guid>
+    <description>Kid's nutrition is important, so let's automate it.</description>
+    <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Self Hosted in 2024</title>
+    <link>https://mvaldes.dev/homelab/selfhosted-2024</link>
+    <guid>https://mvaldes.dev/homelab/selfhosted-2024</guid>
+    <description>An update on my journey for 2024.</description>
+    <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Started Streaming</title>
+    <link>https://mvaldes.dev/life/streaming</link>
+    <guid>https://mvaldes.dev/life/streaming</guid>
+    <description>Look Ma' I'm a streamer now.</description>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>The Steam Deck is awesome</title>
+    <link>https://mvaldes.dev/life/steam-deck-awesome</link>
+    <guid>https://mvaldes.dev/life/steam-deck-awesome</guid>
+    <description>I'm addicted to metroidvania games and my life is hell.</description>
+    <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
