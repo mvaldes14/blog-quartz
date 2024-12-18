@@ -1,5 +1,5 @@
 ---
-title: New Blog in Obsidian like
+title: New Blog in Obsidian like format
 date: 12/17/2024
 description: Obsidian is life so a new blog format came
 draft: false
