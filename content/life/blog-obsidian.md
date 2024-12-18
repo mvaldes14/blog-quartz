@@ -4,7 +4,6 @@ date: 12/17/2024
 description: Exploring Quartz as a customizable alternative to Obsidian Publish for my personal blog.
 draft: false
 tags:
-  - blog
   - obsidian
   - quartz
 ---
