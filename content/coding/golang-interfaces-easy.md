@@ -1,7 +1,7 @@
 ---
 title: Golang Interafaces are easy
 date: 12/18/2024
-draft: true
+draft: false 
 tags:
 - coding
 - golang
